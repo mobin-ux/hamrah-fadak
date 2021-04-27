@@ -1,9 +1,6 @@
-﻿@charset "UTF-8";
+﻿@import url(./yekanbakh.css);
+@charset "UTF-8";
 
-@font-face {
-    font-family: iransans;
-    src: url('../fonts/BKoodakBold.dfa4349.ttf');
-}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -139,7 +136,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 /* line 46, node_modules/bootstrap/scss/_reboot.scss */
 body {
     margin: 0;
-    font-family: iransans;
+    font-family: YekanBakh !important;
     font-size: 0.938rem;
     font-weight: 400;
     line-height: 1.75;
@@ -356,7 +353,7 @@ select,
 optgroup,
 textarea {
     margin: 0;
-    font-family: inherit;
+    font-family: YekanBakh;
     font-size: inherit;
     line-height: inherit;
 }
@@ -496,7 +493,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-bottom: 0.938rem;
-    font-family: iransans;
+    font-family: YekanBakh;
     font-weight: 600;
     line-height: 1.25;
     color: #1b2e4b;
@@ -18452,7 +18449,7 @@ a.close.disabled {
     z-index: 1070;
     display: block;
     margin: 0;
-    font-family: iransans;
+    font-family: YekanBakh;
     font-style: normal;
     font-weight: 400;
     line-height: 1.75;
@@ -18582,7 +18579,7 @@ a.close.disabled {
     z-index: 1060;
     display: block;
     max-width: 276px;
-    font-family: iransans;
+    font-family: YekanBakh;
     font-style: normal;
     font-weight: 400;
     line-height: 1.75;
@@ -19840,7 +19837,7 @@ footer a {
 /* line 1, src/assets/scss/components/_components.buttons.scss */
 .btn {
     position: relative;
-    font-family: iransans;
+    font-family: YekanBakh;
     font-size: 0.838rem;
     font-weight: 500;
     padding: .55em 1.735em;
@@ -21069,7 +21066,7 @@ footer a {
         right: 30px;
         font-size: 12px;
         font-weight: 600;
-        font-family: iransans;
+        font-family: YekanBakh;
         text-transform: uppercase;
         background-color: inherit;
         color: #8392a5;
@@ -22054,7 +22051,7 @@ footer a {
 
 /* line 1, src/assets/scss/components/_components.page-header.scss */
 .custom-breadcrumb .breadcrumb-item + .breadcrumb-item::before {
-    font-family: themify;
+    font-family: YekanBakh;
     content: "\e64a";
     font-size: 10px;
     padding-top: 5px;
@@ -22526,7 +22523,7 @@ footer a {
         /* line 30, src/assets/scss/components/hero-section/_hero-8.scss */
         .counter-wrap li .single-counter span {
             font-weight: bold;
-            font-family: iransans;
+            font-family: YekanBakh;
             font-size: 25px;
             line-height: 28px;
         }
@@ -22686,7 +22683,7 @@ footer a {
         /* line 8, src/assets/scss/components/about-section/_common.scss */
         .check-list-wrap li span {
             font-weight: 600;
-            font-family: iransans;
+            font-family: YekanBakh;
         }
 
         /* line 12, src/assets/scss/components/about-section/_common.scss */
@@ -22877,7 +22874,7 @@ footer a {
         color: #1b2e4b;
         background: #fff;
         font-weight: 700;
-        font-family: iransans;
+        font-family: YekanBakh;
         -webkit-transition: all 300ms ease-in-out;
         transition: all 300ms ease-in-out;
     }
@@ -23283,7 +23280,7 @@ footer a {
         text-transform: uppercase;
         font-size: 11px;
         font-weight: 700;
-        font-family: iransans;
+        font-family: YekanBakh;
     }
 
         /* line 18, src/assets/scss/components/price-section/_price-1.scss */
@@ -23367,7 +23364,7 @@ footer a {
         font-size: 40px;
         line-height: 45px;
         font-weight: 700;
-        font-family: iransans;
+        font-family: YekanBakh;
     }
 
         /* line 78, src/assets/scss/components/price-section/_price-1.scss */
@@ -23392,7 +23389,7 @@ footer a {
             /* line 90, src/assets/scss/components/price-section/_price-1.scss */
             .single-pricing-pack .pricing-content .pricing-feature-list li span {
                 font-weight: 700;
-                font-family: iransans;
+                font-family: YekanBakh;
                 font-size: 13px;
                 color: #434343;
             }
@@ -23622,7 +23619,7 @@ footer a {
         font-size: 16px;
         font-weight: 600;
         color: #696969;
-        font-family: iransans;
+        font-family: YekanBakh;
     }
 
         /* line 46, src/assets/scss/components/blog-section/_blog-1.scss */
@@ -23957,7 +23954,7 @@ button,
 .widget a {
     color: #788487;
     display: block;
-    font-family: iransans;
+    font-family: YekanBakh;
     font-size: 14px;
     text-align: right;
     line-height: 22px;
@@ -24039,7 +24036,7 @@ button,
         line-height: 33px;
         border-radius: 100%;
         padding: inherit;
-        font-family: iransans;
+        font-family: YekanBakh;
         font-weight: 600;
         color: #9629e6;
     }
@@ -24076,7 +24073,7 @@ button,
     .login-signup-form .form-group label {
         font-size: 14px;
         font-weight: 500;
-        font-family: iransans;
+        font-family: YekanBakh;
         margin-bottom: 0;
     }
 
