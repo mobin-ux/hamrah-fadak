@@ -3150,7 +3150,7 @@ table {
     [image-overlay]:before {
         position: absolute;
         content: '';
-        background: #dd03d2;
+        background: #60a64a;
         width: 100%;
         height: 100%;
         top: 0;
@@ -3322,7 +3322,7 @@ table {
 
 /* line 7, src/assets/scss/objects/_objects.background.scss */
 .color-accent {
-    color: #bf00dc !important;
+    color: #60A64A !important;
 }
 
 /* line 10, src/assets/scss/objects/_objects.background.scss */
@@ -3342,7 +3342,7 @@ table {
 
 /* line 20, src/assets/scss/objects/_objects.background.scss */
 .accent-bg {
-    background: #bf00dc !important;
+    background: #60A64A !important;
 }
 
 /* line 24, src/assets/scss/objects/_objects.background.scss */
@@ -19243,7 +19243,7 @@ a.close.disabled {
             #preloader .preloader-wrap .thecube .c2 {
                 -webkit-transform: scale(1.1) rotateZ(-90deg);
                 transform: scale(1.1) rotateZ(-90deg);
-                background: #bf00dc;
+                background: #60A64A;
             }
 
             /* line 60, src/assets/scss/components/_components.preloader.scss */
@@ -19257,7 +19257,7 @@ a.close.disabled {
             #preloader .preloader-wrap .thecube .c4 {
                 -webkit-transform: scale(1.1) rotateZ(-270deg);
                 transform: scale(1.1) rotateZ(-270deg);
-                background: #bf00dc;
+                background: #60A64A;
             }
 
             /* line 72, src/assets/scss/components/_components.preloader.scss */
@@ -20031,15 +20031,16 @@ footer a {
 
 /* line 162, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-02 {
-    background-color: #9629e6;
-    border-color: #9629e6;
+    background-color: #60a64a;
+    border-color: #ffffff69;
     color: #fff;
+    box-shadow: 0px 10px 15px #60a64a75;
 }
 
     /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
     .btn-brand-02:hover, .btn-brand-02:focus {
-        background-color: #6d14ae;
-        border-color: #6d14ae;
+        background-color: #60a64a;
+        border-color: #60a64a;
         color: #fff;
     }
 
@@ -20057,8 +20058,8 @@ footer a {
 
 /* line 182, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-03 {
-    background-color: #bf00dc;
-    border-color: #bf00dc;
+    background-color: #60A64A;
+    border-color: #60A64A;
     color: #fff;
 }
 
@@ -20109,8 +20110,8 @@ footer a {
 
 /* line 229, src/assets/scss/components/_components.buttons.scss */
 .btn-outline-brand-03 {
-    border-color: #bf00dc;
-    color: #bf00dc;
+    border-color: #60A64A;
+    color: #60A64A;
 }
 
     /* line 233, src/assets/scss/components/_components.buttons.scss */
@@ -20164,8 +20165,8 @@ footer a {
 
 /* line 275, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-3d-03 {
-    background-image: -webkit-gradient(linear, right bottom, right top, from(#bf00dc), to(#e643ff));
-    background-image: linear-gradient(0deg, #bf00dc 0%, #e643ff 100%);
+    background-image: -webkit-gradient(linear, right bottom, right top, from(#60A64A), to(#e643ff));
+    background-image: linear-gradient(0deg, #60A64A 0%, #e643ff 100%);
 }
 
     /* line 278, src/assets/scss/components/_components.buttons.scss */
@@ -20196,8 +20197,8 @@ footer a {
 
 /* line 297, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-3d-03:before {
-    background-image: -webkit-gradient(linear, right bottom, right top, from(#e643ff), to(#bf00dc));
-    background-image: linear-gradient(0deg, #e643ff 0%, #bf00dc 100%);
+    background-image: -webkit-gradient(linear, right bottom, right top, from(#e643ff), to(#60A64A));
+    background-image: linear-gradient(0deg, #e643ff 0%, #60A64A 100%);
 }
 
 /* line 300, src/assets/scss/components/_components.buttons.scss */
@@ -22576,7 +22577,7 @@ footer a {
 
             /* line 27, src/assets/scss/components/promo-section/_promo-1.scss */
             .promo-one-single:hover a:hover {
-                background: #bf00dc !important;
+                background: #60A64A !important;
                 color: #fff;
             }
 
@@ -22721,7 +22722,7 @@ footer a {
 .list-with-icon li .list-icon-box {
     height: 65px;
     width: 65px;
-    color: #bf00dc;
+    color: #60A64A;
     margin-bottom: 0;
 }
 
@@ -23100,7 +23101,7 @@ footer a {
 
 /* line 21, src/assets/scss/components/sereenshots-section/_common.scss */
 .dot-indicator.owl-theme button.owl-dot.active span {
-    background: #bf00dc;
+    background: #60A64A;
     border: 2px solid transparent;
     -webkit-transform: scale(0.8);
     transform: scale(0.8);
@@ -23196,7 +23197,7 @@ footer a {
         right: 20px;
         width: 99%;
         height: 69%;
-        background: #bf00dc;
+        background: #60A64A;
         -webkit-transform: rotate(6deg);
         transform: rotate(6deg);
         z-index: -1;
@@ -29119,5 +29120,5 @@ div#clock {
 }
 
 .text-mypurple {
-    color: #bf00dc !important;
+    color: #60A64A !important;
 }
