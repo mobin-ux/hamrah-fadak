@@ -1309,7 +1309,7 @@ textarea.form-control {
 
 /* line 3, src/assets/scss/elements/_elements.links.scss */
 a {
-    color: #6730e3;
+    color: #60a64a;
     text-decoration: none;
 }
 
@@ -3215,9 +3215,9 @@ table {
     [data-overlay-gradient]:before {
         position: absolute;
         content: '';
-        background: #6730e3;
-        background: -webkit-gradient(linear, right top, left top, color-stop(5%, #6730e3), color-stop(95%, #9629e6)) !important;
-        background: linear-gradient(to left, #6730e3 5%, #9629e6 95%) !important;
+        background: #60a64a;
+        background: -webkit-gradient(linear, right top, left top, color-stop(5%, #60a64a), color-stop(95%, #9629e6)) !important;
+        background: linear-gradient(to left, #60a64a 5%, #9629e6 95%) !important;
         width: 100%;
         height: 100%;
         top: 0;
@@ -3312,7 +3312,7 @@ table {
 
 /* line 1, src/assets/scss/objects/_objects.background.scss */
 .color-primary {
-    color: #6730e3 !important;
+    color: #60a64a !important;
 }
 
 /* line 4, src/assets/scss/objects/_objects.background.scss */
@@ -19221,7 +19221,7 @@ a.close.disabled {
                 position: relative;
                 -webkit-transform: scale(1.1);
                 transform: scale(1.1);
-                background: #6730e3;
+                background: #60a64a;
             }
 
                 /* line 39, src/assets/scss/components/_components.preloader.scss */
@@ -19250,7 +19250,7 @@ a.close.disabled {
             #preloader .preloader-wrap .thecube .c3 {
                 -webkit-transform: scale(1.1) rotateZ(-180deg);
                 transform: scale(1.1) rotateZ(-180deg);
-                background: #6730e3;
+                background: #60a64a;
             }
 
             /* line 66, src/assets/scss/components/_components.preloader.scss */
@@ -19496,13 +19496,13 @@ a.close.disabled {
             /* line 120, src/assets/scss/components/_components.header.scss */
             .header .menu ul li a:hover {
                 color: #fff;
-                background: #6730e3;
+                background: #60a64a;
             }
 
         /* line 125, src/assets/scss/components/_components.header.scss */
         .header .menu ul li:hover > a {
             color: #fff;
-            background: #6730e3;
+            background: #60a64a;
         }
 
     /* line 130, src/assets/scss/components/_components.header.scss */
@@ -20083,7 +20083,7 @@ footer a {
 
 /* line 204, src/assets/scss/components/_components.buttons.scss */
 .btn-outline-brand-01 {
-    border-color: #6730e3;
+    border-color: #60a64a;
     color: #581edc;
 }
 
@@ -20152,8 +20152,8 @@ footer a {
 
 /* line 269, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-3d-01 {
-    background-image: -webkit-gradient(linear, right bottom, right top, from(#3d1598), to(#6730e3));
-    background-image: linear-gradient(0deg, #3d1598 0%, #6730e3 100%);
+    background-image: -webkit-gradient(linear, right bottom, right top, from(#3d1598), to(#60a64a));
+    background-image: linear-gradient(0deg, #3d1598 0%, #60a64a 100%);
 }
 
 /* line 272, src/assets/scss/components/_components.buttons.scss */
@@ -20184,8 +20184,8 @@ footer a {
 
 /* line 291, src/assets/scss/components/_components.buttons.scss */
 .btn-brand-3d-01:before {
-    background-image: -webkit-gradient(linear, right bottom, right top, from(#6730e3), to(#3d1598));
-    background-image: linear-gradient(0deg, #6730e3 0%, #3d1598 100%);
+    background-image: -webkit-gradient(linear, right bottom, right top, from(#60a64a), to(#3d1598));
+    background-image: linear-gradient(0deg, #60a64a 0%, #3d1598 100%);
 }
 
 /* line 294, src/assets/scss/components/_components.buttons.scss */
@@ -22620,7 +22620,7 @@ footer a {
                 width: 100%;
                 height: 100%;
                 border-radius: 0;
-                background-color: #6730e3;
+                background-color: #60a64a;
             }
 
         /* line 27, src/assets/scss/components/promo-section/_promo-2.scss */
@@ -22632,7 +22632,7 @@ footer a {
             height: 95px;
             bottom: -50px;
             border-radius: 35px;
-            background-color: #6730e3;
+            background-color: #60a64a;
             -webkit-transition: all .3s;
             transition: all .3s;
             z-index: -1;
@@ -22650,7 +22650,7 @@ footer a {
             transform: translateY(-10px);
             -webkit-box-shadow: 0 1rem 3rem rgba(31, 45, 61, 0.125);
             box-shadow: 0 1rem 3rem rgba(31, 45, 61, 0.125);
-            background-color: #6730e3;
+            background-color: #60a64a;
             color: #fff;
         }
 
@@ -22696,7 +22696,7 @@ footer a {
             font-weight: 900;
             font-size: 1.25rem;
             line-height: 1.5rem;
-            color: #6730e3;
+            color: #60a64a;
         }
 
     /* line 25, src/assets/scss/components/about-section/_common.scss */
@@ -22742,7 +22742,7 @@ footer a {
         border-radius: 50%;
         right: 0;
         top: 14px;
-        background: #6730e3;
+        background: #60a64a;
         -webkit-transform: translateY(-50%);
         transform: translateY(-50%);
         -webkit-transition: all .5s;
@@ -23288,7 +23288,7 @@ footer a {
             position: absolute;
             top: 10px;
             z-index: 1;
-            color: #6730e3;
+            color: #60a64a;
         }
 
         /* line 24, src/assets/scss/components/price-section/_price-1.scss */
@@ -23317,7 +23317,7 @@ footer a {
             display: inline-block;
             width: 200px;
             height: 37px;
-            border: 1px solid #6730e3;
+            border: 1px solid #60a64a;
             border-radius: 25px;
             -webkit-transition: all 0.3s linear;
             transition: all 0.3s linear;
@@ -23334,7 +23334,7 @@ footer a {
                 right: 4px;
                 width: 100px;
                 height: 35px;
-                background-color: #6730e3;
+                background-color: #60a64a;
                 border-radius: 25px;
                 -webkit-transform: translate3d(6px, 0, 0);
                 transform: translate3d(6px, 0, 0);
@@ -23611,7 +23611,7 @@ footer a {
 
             /* line 35, src/assets/scss/components/blog-section/_blog-1.scss */
             .single-blog-card .card-body .post-meta .meta-list li i {
-                color: #6730e3;
+                color: #60a64a;
             }
 
     /* line 41, src/assets/scss/components/blog-section/_blog-1.scss */
@@ -23840,7 +23840,7 @@ footer a {
 
     /* line 137, src/assets/scss/components/blog-section/_blog-single.scss */
     .comment-meta-date a:hover, .comment-meta-date a:focus, .comment-meta-date-shop a:hover, .comment-meta-date-shop a:focus {
-        color: #6730e3;
+        color: #60a64a;
         opacity: 1;
     }
 
@@ -24162,7 +24162,7 @@ input::placeholder {
 
 /* line 5, src/assets/scss/components/contact-section/_contact-1.scss */
 .contact-info-list li .contact-icon span {
-    border: 1px solid #6730e3;
+    border: 1px solid #60a64a;
 }
 
 /* line 14, src/assets/scss/components/contact-section/_contact-1.scss */
@@ -24345,7 +24345,7 @@ input::placeholder {
 
     /* line 16, src/assets/scss/components/utility/_common.scss */
     .countdown-wrap .row .col h2, .countdown-wrap .row .col h5 {
-        color: #6730e3 !important;
+        color: #60a64a !important;
     }
 
 /* line 3, node_modules/bootstrap/scss/utilities/_align.scss */
