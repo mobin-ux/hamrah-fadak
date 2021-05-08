@@ -3287,8 +3287,8 @@ table {
 
 /* line 202, src/assets/scss/objects/_objects.background-image.scss */
 .hero-bottom-shape, .hero-bottom-shape-two {
-    background: rgb(110,204,81);
-background: linear-gradient(180deg, rgba(110,204,81,1) 0%, rgba(128,198,106,1) 50%, rgba(185,254,164,1) 100%);
+    background: rgb(37,211,102);
+    background: linear-gradient(180deg, rgba(37,211,102,1) 0%, rgba(179,240,202,1) 100%);
     position: absolute;
     top: 1px;
     right: 0;
@@ -26444,8 +26444,8 @@ button.bg-dark:focus {
 
 /* line 4, node_modules/bootstrap/scss/utilities/_shadows.scss */
 .shadow {
-    -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    -webkit-box-shadow: 0 6px 20px rgb(38 44 41 / 10%) !important;;
+    box-shadow: 0 6px 20px rgb(38 44 41 / 10%) !important;;
 }
 
 /* line 5, node_modules/bootstrap/scss/utilities/_shadows.scss */
