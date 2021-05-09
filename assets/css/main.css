@@ -3349,7 +3349,7 @@ table {
 
 /* line 24, src/assets/scss/objects/_objects.background.scss */
 .gradient-bg {
-    background: linear-gradient(-75deg, #25D366, #25D366) !important;
+    background: #2e3731;
 }
 
 /*!
@@ -24634,6 +24634,13 @@ button.bg-dark:focus {
 /* line 73, node_modules/bootstrap/scss/utilities/_borders.scss */
 .rounded-0 {
     border-radius: 0 !important;
+}
+.rounded-f {
+    border-radius: 20px !important;
+}
+
+.gradient-bg-c {
+    background-color: #25d366 !important;
 }
 
 /* line 2, node_modules/bootstrap/scss/mixins/_clearfix.scss */
