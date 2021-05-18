@@ -3287,8 +3287,8 @@ table {
 
 /* line 202, src/assets/scss/objects/_objects.background-image.scss */
 .hero-bottom-shape, .hero-bottom-shape-two {
-    background: rgb(37,211,102);
-    background: linear-gradient(180deg, rgba(37,211,102,1) 0%, rgba(179,240,202,1) 100%);
+    background: #25d366;
+    /* background: linear-gradient(180deg, #25d366 0%, rgba(179,240,202,1) 100%); */
     position: absolute;
     top: 1px;
     right: 0;
